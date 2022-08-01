@@ -5,7 +5,7 @@
 ### Projetos - Game e Robótica
 <div>
 <a href="https://github.com/PatrickHSF/display_7_seg_e_sensor_luz_ldr" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" target="_blank"></a>
-<a href="https://scratch.mit.edu/users/patrick_hsf" target="_blank"><img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" target="_blank"></a>
+<a href="https://scratch.mit.edu/projects/712096871" target="_blank"><img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" target="_blank"></a>
 </div>
 
 ### Projetos - Web
