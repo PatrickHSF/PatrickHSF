@@ -17,6 +17,14 @@
 <a href="https://github.com/PatrickHSF/Escorder_div_html" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
 <a href="https://github.com/PatrickHSF/programacao-formacao" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
 
+### Projetos - Gráficos 
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" target="_blank"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/X6 -CorelDRAW-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" target="_blank"></a>
+
+### Configurações de Editores
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+
 ### Contatos:
 <div>
 <a href="https://www.instagram.com/patrick_ferrareze" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
