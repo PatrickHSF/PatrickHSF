@@ -8,8 +8,9 @@
 <a href="https://scratch.mit.edu/projects/712096871" target="_blank"><img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" target="_blank"></a>
 </div>
 
-### Projetos - Web
+### Projetos - Dev
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>
+<a href="https://github.com/topics/patrick-hsf-python" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
 <a href="https://github.com/PatrickHSF/Escorder_div_html" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" target="_blank"></a>
