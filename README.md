@@ -22,7 +22,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/X6 -CorelDRAW-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" target="_blank"></a>
 
 ### Configurações de Editores
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
+<a href="https://github.com/PatrickHSF/Identa-o_sublime" target="_blank"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 
 ### Contatos:
