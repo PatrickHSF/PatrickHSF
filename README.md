@@ -2,6 +2,7 @@
           
 ## Seja bem vindo dev - Patrick! 
 
+### Extra: ( . ) dentro do eepositório abre o VS Code
 ### Projetos - Game e Robótica
 <div>
 <a href="https://github.com/topics/patrick-hsf-arduino" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" target="_blank"></a>
