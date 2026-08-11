@@ -22,7 +22,7 @@
 <a href="https://colab.research.google.com/drive/1wG4gHWDCmiC4u4EJr9QUFVLRKXGfguCm?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" target="_blank"></a>
 
 ### Projetos - Gráficos 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" target="_blank"></a>
+<a href="https://github.com/PatrickHSF/photoshop" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/X6 -CorelDRAW-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" target="_blank"></a>
 
 ### Configurações de Editores
