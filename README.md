@@ -1,6 +1,7 @@
 
           
-## Seja bem vindo dev - Patrick! 
+## Seja bem vindo dev ao meu Git! 
+### By: Patrick! 
 
 ### Extra: ( . ) dentro do Repositório abre o VS Code
 ### Projetos - Game e Robótica
